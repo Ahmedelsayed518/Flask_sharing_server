@@ -6,7 +6,7 @@ Flask server sharing any directory to localhost and to your network
     1. port.
     2. the path to the directory to share.
 
-* all arguements hase defaults as follows:
+* all arguements has defaults as follows:
     -   port -> 5000.
     -   path -> the current path you are in in your terminal.
 
